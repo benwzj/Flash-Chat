@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>881149303194-s2tj0v7nd2nboi1l9d54khmmvsn1argp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.881149303194-s2tj0v7nd2nboi1l9d54khmmvsn1argp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBmbnBzyqi6Co5VV1JybU7S8ZkP8oTfA24</string>
+	<key>GCM_SENDER_ID</key>
+	<string>881149303194</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sunnyday.iosapp</string>
+	<key>PROJECT_ID</key>
+	<string>beniosproject</string>
+	<key>STORAGE_BUCKET</key>
+	<string>beniosproject.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:881149303194:ios:6d29160f4518be0fe54223</string>
+</dict>
+</plist>
